@@ -1,1 +1,9 @@
+visualization files are:
 
+- corr_matrix
+- correlation
+- ecg_distributions_boxplot
+- heartrate
+- histogram_timeseries_violin
+- plot_frequency_PSD
+- Rpeaks
